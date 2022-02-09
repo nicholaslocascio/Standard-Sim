@@ -1,0 +1,8 @@
+@misc{mata2022standardsim,
+      title={StandardSim: A Synthetic Dataset For Retail Environments}, 
+      author={Cristina Mata and Nick Locascio and Mohammed Azeem Sheikh and Kenny Kihara and Dan Fischetti},
+      year={2022},
+      eprint={2202.02418},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
