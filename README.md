@@ -1,6 +1,10 @@
 # StandardSim
 StandardSim is a photorealistic synthetic dataset for retail environments
 
+Project Page: https://standard-ai.github.io/Standard-Sim/
+Arxiv: https://standard-ai.github.io/Standard-Sim/
+Data: https://drive.google.com/drive/folders/1KRjuL1wxe2VqYKKIOAKa0-FXjTNgr4TX
+
 
 Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
