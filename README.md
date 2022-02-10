@@ -9,8 +9,11 @@ Data: https://drive.google.com/drive/folders/1KRjuL1wxe2VqYKKIOAKa0-FXjTNgr4TX
 
 Code for training models coming soon.
 
-## Change Detection:
+## Change Detection Task
 ![image info](./resources/change_det.gif)
+
+### Change Detection Labels and Model Predictions
+![image info](./resources/segmentation_masks.png)
 
 ## Data Modalities
 ![image info](./resources/modalities.png)
