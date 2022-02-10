@@ -13,7 +13,7 @@ Code for training models coming soon.
 ![image info](./resources/change_det.gif)
 
 ## Data Modalities
-![image info](./resources/modalities.gif)
+![image info](./resources/modalities.png)
 
 ## Dataset Comparison
 ![image info](./resources/dataset.png)
