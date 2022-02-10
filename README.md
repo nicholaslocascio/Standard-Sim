@@ -12,6 +12,9 @@ Code for training models coming soon.
 ## Change Detection:
 ![image info](./resources/change_det.gif)
 
+## Data Modalities
+![image info](./resources/modalities.gif)
+
 ## Dataset Comparison
 ![image info](./resources/dataset.png)
 
