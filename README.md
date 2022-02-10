@@ -1,5 +1,5 @@
 # StandardSim
-StandardSim is a large-scale photorealistic synthetic dataset for retail environments with over 25k examples.
+StandardSim is a large-scale photorealistic synthetic dataset for retail environments with over 25k examples. Modalities include rgb, depth, before/after, instance segmentation labels, depth, and normals.
 
 Project Page: https://standard-ai.github.io/Standard-Sim/
 
